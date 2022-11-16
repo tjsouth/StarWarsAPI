@@ -16,6 +16,8 @@
 		1F1C4EF72924D705001724E3 /* StarWars2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C4EF62924D705001724E3 /* StarWars2Tests.swift */; };
 		1F1C4F012924D705001724E3 /* StarWars2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C4F002924D705001724E3 /* StarWars2UITests.swift */; };
 		1F1C4F032924D705001724E3 /* StarWars2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C4F022924D705001724E3 /* StarWars2UITestsLaunchTests.swift */; };
+		1F1C4F102924E3B5001724E3 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C4F0F2924E3B5001724E3 /* Character.swift */; };
+		1F1C4F122924E4CE001724E3 /* tableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C4F112924E4CE001724E3 /* tableCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		1F1C4EFC2924D705001724E3 /* StarWars2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StarWars2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F1C4F002924D705001724E3 /* StarWars2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWars2UITests.swift; sourceTree = "<group>"; };
 		1F1C4F022924D705001724E3 /* StarWars2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWars2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1F1C4F0F2924E3B5001724E3 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
+		1F1C4F112924E4CE001724E3 /* tableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +106,9 @@
 				1F1C4EDF2924D703001724E3 /* AppDelegate.swift */,
 				1F1C4EE12924D703001724E3 /* SceneDelegate.swift */,
 				1F1C4EE32924D703001724E3 /* ViewController.swift */,
+				1F1C4F0F2924E3B5001724E3 /* Character.swift */,
 				1F1C4EE52924D703001724E3 /* Main.storyboard */,
+				1F1C4F112924E4CE001724E3 /* tableCell.swift */,
 				1F1C4EE82924D705001724E3 /* Assets.xcassets */,
 				1F1C4EEA2924D705001724E3 /* LaunchScreen.storyboard */,
 				1F1C4EED2924D705001724E3 /* Info.plist */,
@@ -261,6 +267,8 @@
 				1F1C4EE42924D703001724E3 /* ViewController.swift in Sources */,
 				1F1C4EE02924D703001724E3 /* AppDelegate.swift in Sources */,
 				1F1C4EE22924D703001724E3 /* SceneDelegate.swift in Sources */,
+				1F1C4F122924E4CE001724E3 /* tableCell.swift in Sources */,
+				1F1C4F102924E3B5001724E3 /* Character.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
